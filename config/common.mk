@@ -121,7 +121,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AudioFX \
     CMSettingsProvider \
-    CMUpdater \
     CustomTiles \
     LineageSetupWizard \
     Eleven \
@@ -132,10 +131,6 @@ PRODUCT_PACKAGES += \
     Trebuchet \
     WallpaperPicker \
     WeatherProvider
-
-# Exchange support
-PRODUCT_PACKAGES += \
-    Exchange2
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
